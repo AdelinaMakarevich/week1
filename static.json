@@ -1,0 +1,8 @@
+{
+ "headers": {
+   "/*": {
+     "X-Author": "adelina.mak",
+     "Access-Control-Allow-Origin": "*" 
+   }
+ }
+}
